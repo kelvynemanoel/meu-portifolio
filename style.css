@@ -1,0 +1,42 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px 0 0 30px;
+}
+
+a {
+    color: #74c716;
+}
+
+h1 {
+    font-size: 70px;
+    letter-spacing: 10px;
+    margin-bottom: 90px;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+main p {
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+strong, span {
+    font-weight: bold;
+    color: #74c716;
+}
+
+img {
+    width: 10%;
+    border-radius: 100%;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #181818ab;
+    display: flex;
+    justify-content: space-between;
+}
